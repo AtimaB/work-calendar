@@ -6,3 +6,11 @@ When the user open the planner, the current day will be displayed at the top of 
 <br>
 <br>
 ![calendar](https://user-images.githubusercontent.com/64511825/85617794-0dcbfa80-b61d-11ea-886f-73ba77953882.jpg)
+
+## Resourced
+[Moment.js](https://momentjs.com/)
+<br>
+[Intro & Installation - Moment.js Tutorial #1](https://youtu.be/n80RRNS1k64)
+<br>
+[Display/Format Dates & Times - Moment.js Tutorial #5](https://youtu.be/nmAHDEO9RW8)
+

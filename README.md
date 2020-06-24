@@ -7,6 +7,9 @@ When the user open the planner, the current day will be displayed at the top of 
 <br>
 ![calendar](https://user-images.githubusercontent.com/64511825/85617794-0dcbfa80-b61d-11ea-886f-73ba77953882.jpg)
 
+## Link
+[Work Day Scheduler](https://atimab.github.io/work-calendar/)
+
 ## Resources
 [Moment.js](https://momentjs.com/)
 <br>
